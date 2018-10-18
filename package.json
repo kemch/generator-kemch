@@ -1,0 +1,18 @@
+{
+  "name": "generator-kemch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kemch/generator-kemch.git",
+  "author": "Kurt Emch <kurtemch@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "main": "app/index.js",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "yeoman-generator": "^0.24.1",
+    "yosay": "^1.0.2"
+  }
+}
